@@ -3,3 +3,5 @@
 "Deftones rock"
 var startingAge = 19
 var golfScore = 98
+var depositPaid = true
+var superCool = false
